@@ -1,6 +1,6 @@
 # 🖥️ Laboratório de Programação Modular
 
-Este repositório contém atividades desenvolvidas na disciplina **Laboratório de Programação Modular**, parte do curso de **Engenharia de Software**. Todas as implementações foram feitas em **Java**, utilizando boas práticas de programação modular e princípios de design de software.
+Este repositório contém atividades desenvolvidas na disciplina **Laboratório de Programação Modular**, parte do curso de **Engenharia de Software**. Todas as implementações foram feitas em **Java**, buscando utilizar as boas práticas de programação modular e orientação a objetos advindos das aulas da disciplina.
 
 ## 📂 Estrutura do Repositório
 
